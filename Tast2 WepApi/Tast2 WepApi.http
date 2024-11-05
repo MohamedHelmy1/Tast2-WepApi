@@ -1,0 +1,6 @@
+@Tast2_WepApi_HostAddress = http://localhost:5133
+
+GET {{Tast2_WepApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
